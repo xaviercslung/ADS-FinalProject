@@ -1,2 +1,7 @@
-# data foler
+# data folder
 data/
+
+# data sets
+Motor_Vehicle_Collisions_-_Crashes.csv
+Street_Construction_Permits.csv
+Motor_Vehicle_Collisions_-_Person.csv
